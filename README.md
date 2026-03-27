@@ -1,2 +1,2 @@
-# EXercicios_AEDII-Giancarlo
+# EXercicios AEDII-Giancarlo
 
