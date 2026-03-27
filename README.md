@@ -1,3 +1,3 @@
-# EXercicios AEDII-Giancarlo
+# Exercícios AEDII-Giancarlo
 
-Exercicios resolvidos da cadeira de Algoritimos e Estruturas de Dados II
+Exercícios resolvidos da cadeira de Algoritimos e Estruturas de Dados II
